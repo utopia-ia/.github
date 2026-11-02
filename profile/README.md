@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/utopia-ia/.github/main/profile/img/utopiaia.png" alt="UtopiaIA" width="84">
+
+**UtopiaIA** · the studio behind Elffuss
+
 <img src="https://raw.githubusercontent.com/utopia-ia/.github/main/profile/img/banner.jpg" alt="Elffuss: AI that runs in your browser, on your own graphics card" width="100%">
 
 [**elffuss.com**](https://elffuss.com) · [How it works](https://elffuss.com/how-it-works/) · [Cómo funciona](https://elffuss.com/como-funciona/) · [Tools](https://tools.elffuss.com)
